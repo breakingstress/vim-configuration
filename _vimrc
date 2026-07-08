@@ -12,7 +12,6 @@ set shiftwidth=4               " indentation amount
 set expandtab                  " convert tabs to spaces
 set smartindent                " better auto indentation
 set softtabstop=4 	       " make backspace delete all 4 spaces at once
-set smartab 		       " inserts blanks according to shift width
 inoremap {<CR> {<CR>}<Esc>O
 
 " ===== Search =====
